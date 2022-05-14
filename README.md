@@ -1,6 +1,6 @@
 # NextJS-Tutorial
 
-![image](https://user-images.githubusercontent.com/55777067/168449045-54c6b5b2-05ed-4b1d-87f7-223ad166aaf7.png)
+![image](https://user-images.githubusercontent.com/55777067/168449057-0c777707-8d69-4104-bbae-7d91db356476.png)
 
 ## Table of contents
 * [General Information](#general-info)
