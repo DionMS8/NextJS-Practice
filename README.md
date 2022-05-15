@@ -16,6 +16,11 @@ web applications functionalities such as server-side rendering and generating st
 ## Topics Covered
 
 - create-next-app ✔
+- Creating routes for multiple pages ✔
+- Link component ✔
+- Static Site Generation ✔
+- Incremental Static Generation ✔
+- Server-Side Rendering ✔
 
 
 ## Learning Resources
