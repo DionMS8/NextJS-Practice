@@ -1,4 +1,4 @@
-# NextJS-Tutorial
+# NextJS-Practice
 
 ![image](https://user-images.githubusercontent.com/55777067/168449057-0c777707-8d69-4104-bbae-7d91db356476.png)
 
