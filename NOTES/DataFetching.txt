@@ -1,0 +1,47 @@
+=====[DATA FETCHING]==============================================================================================
+
+- NEXTJS ALLOWS FOR VARIOUS DATA FETCHING 
+TECHNIQUES TO BE USED TOGETHER IN AN 
+APPLICATION
+
+
+===[STATIC SITE GENERATION]==============================================================================================
+
+STATIC SITE GENERATION => ALL HTML PAGES ARE 
+RENDERED ON THE BROWSER AT BUILD TIME
+
+export async function getStaticProps() 
+
+INCREMENTAL STATIC REGENRATION => 
+RE-GENERATES SINGLE PAGES IN THE BACKGROUND
+
+export async function getStaticPaths() {
+    // fetching data....
+}
+
+return {
+    props: { },
+    revalidate: 30 // THIS WILL REBUILD THE PAGE EVERY 30S OR LESS
+}
+
+
+===[SERVER SIDE RENDERING]=======================================================================================================
+
+export async function getServerSideProps() 
+
+SERVER-SIDE RENDERING => EACH PAGE IS PRE-RENDERED 
+BY THE SERVER AND SENT TO THE BROWSER WHENEVER
+IT IS REQUESTED
+
+- THIS ENSURES THAT THE DATA BEING RENDERED
+ONTO THE WEB PAGE IS ALWAYS UP TO DATE
+
+- SUITABLE FOR WEB PAGES WITH DYNAMIC DATA
+
+
+
+getServerSideProps
+
+
+
+
