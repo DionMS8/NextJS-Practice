@@ -10,7 +10,6 @@ export default function Home() {
         <title>Home</title>
         <meta name="description" content="This is the home page" />
       </Head>
-      <Navbar />
       <h1>Home Page</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
@@ -24,7 +23,6 @@ export default function Home() {
         laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
         sequi!
       </p>
-      <Footer />
     </div>
   );
 }
