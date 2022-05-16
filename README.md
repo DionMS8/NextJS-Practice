@@ -1,8 +1,8 @@
-# Next.JS Practice 💭
+# Next.js Practice 💭
 
 ![image](https://user-images.githubusercontent.com/55777067/168449057-0c777707-8d69-4104-bbae-7d91db356476.png)
 
-## Table of contents
+## Table of Contents
 * [General Information](#general-info)
 * [Topics Covered](#topics-covered)
 * [Learning Resources](#resources)
@@ -21,14 +21,19 @@ This repo outlines my journey to mastering Next.js. Next.js is an open-source we
 - Incremental Static Generation ✔
 - Server-Side Rendering ✔
 - Using a Layout Component ✔
-- Adding Styles
-- Redirecting Users
+- Adding CSS Styles ✔
+  - Global Styling ✔
+  - Module Styling ✔
+  - Style Class Scoping ✔
+ - Creating a Custom 404 Page ✔
+-  Using the useRouter Hook to Redirect Users ✔
 - Dynamic Routes
 - Deploying to Vercel
 
 
 ## Learning Resources
 
+- Net Ninja 
+- Traversy Media
 - W3Schools
 - freeCodeCamp
-- Net Ninja 
