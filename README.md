@@ -15,12 +15,17 @@ web applications functionalities such as server-side rendering and generating st
 
 ## Topics Covered
 
-- create-next-app ✔
+- Running create-next-app ✔
 - Creating routes for multiple pages ✔
-- Link component ✔
+- Linking Between Pages using the href Prop ✔
 - Static Site Generation ✔
 - Incremental Static Generation ✔
 - Server-Side Rendering ✔
+- Using a Layout Component ✔
+- Adding Styles
+- Redirecting Users
+- Dynamic Routes
+- Deploying to Vercel
 
 
 ## Learning Resources
