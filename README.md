@@ -9,18 +9,22 @@
 
 
 ## General Information
-This repo outlines my journey to mastering NextJS. Next.js is an open-source web development framework built on top of Node.js enabling React based 
-web applications functionalities such as server-side rendering and generating static websites.
+This repo outlines my journey to mastering Next.js. Next.js is an open-source web development framework built on top of Node.js enabling React based functionalities such as server-side rendering and generating static websites.
 
 
 ## Topics Covered
 
-- create-next-app ✔
+- Running create-next-app ✔
 - Creating routes for multiple pages ✔
-- Link component ✔
+- Linking Between Pages using the href Prop ✔
 - Static Site Generation ✔
 - Incremental Static Generation ✔
 - Server-Side Rendering ✔
+- Using a Layout Component ✔
+- Adding Styles
+- Redirecting Users
+- Dynamic Routes
+- Deploying to Vercel
 
 
 ## Learning Resources
