@@ -48,7 +48,7 @@ Contributions, issues and pull requests are welcome. After cloning & setting up 
 
 ## 💬 Get in touch
 
-If you have various suggestions, questions or want to discuss things, have a look at the Discussion section on this repo.
+If you have any suggestions, questions or want to discuss things, have a look at the Discussion section on this repo.
 
 
 ## 🙌 Show your support
