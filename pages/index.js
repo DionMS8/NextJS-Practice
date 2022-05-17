@@ -5,27 +5,29 @@ import styles from '../styles/Home.module.css';
 
 export default function Home() {
   return (
-    <div className={styles.main}>
+    <>
       <Head>
-        <title>Home</title>
-        <meta name="description" content="This is the home page" />
+        <title>DBZ List | Home</title>
+        <meta name="keywords" content="z-fighters" />
       </Head>
-      <h1>Home Page</h1>
-      <p className={styles.description}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
-        reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
-        laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
-        sequi!
-      </p>
-      <p className={styles.description}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
-        reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
-        laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
-        sequi!
-      </p>
-      <Link href="/users">
-        <a>See Marvel Listing</a>
-      </Link>
-    </div>
+      <div className={styles.main}>
+        <h1>Home Page</h1>
+        <p className={styles.description}>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
+          reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
+          laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
+          sequi!
+        </p>
+        <p className={styles.description}>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
+          reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
+          laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
+          sequi!
+        </p>
+        <Link href="/users">
+          <a>See Marvel Listing</a>
+        </Link>
+      </div>
+    </>
   );
 }

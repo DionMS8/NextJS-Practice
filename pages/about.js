@@ -3,30 +3,33 @@ import styles from '../styles/About.module.css';
 
 const About = () => {
   return (
-    <div className={styles.main}>
+    <>
       <Head>
-        <title>About Page</title>
+        <title>DBZ List | About</title>
+        <meta name="keywords" content="z-fighters" />
       </Head>
-      <h1>About Us</h1>
-      <p className={styles.description}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
-        reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
-        laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
-        sequi!
-      </p>
-      <p className={styles.description}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
-        reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
-        laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
-        sequi!
-      </p>
-      <p className={styles.description}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
-        reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
-        laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
-        sequi!
-      </p>
-    </div>
+      <div className={styles.main}>
+        <h1>About Us</h1>
+        <p className={styles.description}>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
+          reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
+          laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
+          sequi!
+        </p>
+        <p className={styles.description}>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
+          reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
+          laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
+          sequi!
+        </p>
+        <p className={styles.description}>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
+          reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
+          laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
+          sequi!
+        </p>
+      </div>
+    </>
   );
 };
 
