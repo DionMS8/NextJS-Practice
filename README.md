@@ -29,7 +29,7 @@ This repo outlines my journey to mastering Next.js. Next.js is an open-source we
 - Creating a Custom 404 Page ✔
 - Using the useRouter Hook to Redirect Users ✔
 - Static Assets (Images and Metadata) ✔
-- Fetching data from an API using getStaticProps() ✔
+- Fetching data from an API using getStaticProps( ) ✔
 - Dynamic Routing ✔
   - Creating Files for Dynamic Route Parameters ✔
   - Creating Dynamic Routes based on Dynamic Parameters ✔
