@@ -17,9 +17,10 @@ This repo outlines my journey to mastering Next.js. Next.js is an open-source we
 - Running create-next-app ✔
 - Creating routes for multiple pages ✔
 - Linking Between Pages using the href Prop ✔
-- Static Site Generation ✔
-- Incremental Static Generation ✔
-- Server-Side Rendering ✔
+- Data Fetching ✔
+  - Static Site Generation ✔
+  - Incremental Static Generation ✔
+  - Server-Side Rendering ✔
 - Using a Layout Component ✔
 - Adding CSS Styles ✔
   - Global Styling ✔
